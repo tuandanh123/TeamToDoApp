@@ -1,4 +1,4 @@
 module.exports = {
-    databaseURL: 'http://localhost:27017', // URL
-    itemsPerPage: 5
+    allowAssignment: true, // Bật tính năng gán công việc
+    itemsPerPage: 15
 };
